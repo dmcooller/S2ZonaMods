@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "description": "Quest items have zero weight",
+  "author": "deathelm",
+  "actions": [
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/QuestNodePrototypes/RSQ01.cfg",
+      "path": "RSQ01_SetTimer::InGameHours",
+      "value": 0,
+      "defaultValue": 72
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/QuestNodePrototypes/RSQ04.cfg",
+      "path": "RSQ04_SetTimer::InGameHours",
+      "value": 0,
+      "defaultValue": 72
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/QuestNodePrototypes/RSQ05.cfg",
+      "path": "RSQ05_SetTimer::InGameHours",
+      "value": 0,
+      "defaultValue": 72
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/QuestNodePrototypes/RSQ06_C00___SIDOROVICH.cfg",
+      "path": "RSQ06_C00___SIDOROVICH_SetTimer::InGameHours",
+      "value": 0,
+      "defaultValue": 72
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/QuestNodePrototypes/RSQ07_C00_TSEMZAVOD.cfg",
+      "path": "RSQ07_C00_TSEMZAVOD_SetTimer::InGameHours",
+      "value": 0,
+      "defaultValue": 72
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/QuestNodePrototypes/RSQ08_C00_ROSTOK.cfg",
+      "path": "RSQ08_C00_ROSTOK_SetTimer::InGameHours",
+      "value": 0,
+      "defaultValue": 72
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/QuestNodePrototypes/RSQ09_C00_MALAHIT.cfg",
+      "path": "RSQ09_C00_MALAHIT_SetTimer::InGameHours",
+      "value": 0,
+      "defaultValue": 72
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/QuestNodePrototypes/RSQ10_C00_HARPY.cfg",
+      "path": "RSQ10_C00_HARPY_SetTimer::InGameHours",
+      "value": 0,
+      "defaultValue": 72
+    }
+  ]
+}

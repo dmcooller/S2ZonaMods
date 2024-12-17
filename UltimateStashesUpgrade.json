@@ -1,0 +1,2962 @@
+{
+  "version": "1.0",
+  "description": "Added items to stash pools",
+  "author": "Stalker_Boss",
+  "actions": [
+    {
+      "type": "AddStructure",
+      "file": "Stalker2/Content/GameLite/GameData/ItemGeneratorPrototypes/Gamepass_ItemGenerators.cfg",
+      "path": "GamePass_Stash_ItemGenerator_Cheap::ItemGenerator::[1]::PossibleItems",
+      "structures": [
+        {
+          "ItemPrototypeSID": "EArtifactFlash",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSnowflake",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactDummy",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactCrystalThorn",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactBattery",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCrystal",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactMomsBeads",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactJellyFish",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactWorm",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSparkler",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactFireBall",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGoldFish",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactSteak",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactStoneDrop",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactGlass",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactBurntHunk",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactResin",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactChunkMeat",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGravy",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactDrops",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactEye",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactThorn",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactWrenched",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactBloodStone",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactTrunk",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSponge",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactPlane",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactMica",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBubble",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactSlime",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactSlug",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactKryptonite",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBung",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactCottonWool",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactLandSlug",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactChocolate",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "PArtifactBrain",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSoul",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactMoonlight",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactTow",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactThunderHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactCloud",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactBakedBolts",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactDeadSponge",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactHellishHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactPlasma",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSpring",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactPellicle",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBun",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGraphiteBlock",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactEchinus",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactRosin",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactPlasticine",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactNightStar",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactAtom",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactRazor",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCandle",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactFireworks",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCore",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSplitStone",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactBud",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactCrystalGlass",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBouncyBall",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactDevilsMushroom",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Jemmy_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Newbee_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Nasos_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Zorya_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "SkinJacket_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Jacket_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Middle_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Mercenaries_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Default_Military_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy2_Military_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Anomaly_Scientific_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Rook_Svoboda_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Svoboda_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Rook_Dolg_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Dolg_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Monolith_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Varta_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Spark_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Duty_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Duty_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Svoboda_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Varta_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Mercenaries_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Bandit_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Neutral_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_ColimScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_ColimScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_GoloScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X2Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X2Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X4Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X4Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X8Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X8Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_2",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_3",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_2",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_3",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_4",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPM_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunUDP_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM10_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAPB_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunViper_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunBucket_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunIntegral_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunZubr_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK74_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM16_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGP37_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGP37_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunFora_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGvintar_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunKharod_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunLavina_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunDnipro_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVU_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_GLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_GLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_BuckLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK74_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAPB_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunBucket_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunDnipro_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunFora_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunG37_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGvintar_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunIntegral_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunKharod_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunLavina_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM10_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM16_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM701_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM860_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunMark_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRam2_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRhino_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRpg7_GL",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSPSA_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVDM_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVU_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunTOZ_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunZubr_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        }
+      ]
+    },
+    {
+      "type": "AddStructure",
+      "file": "Stalker2/Content/GameLite/GameData/ItemGeneratorPrototypes/Gamepass_ItemGenerators.cfg",
+      "path": "GamePass_Stash_ItemGenerator_Common_Var1::ItemGenerator::[0]::PossibleItems",
+      "structures": [
+        {
+          "ItemPrototypeSID": "EArtifactFlash",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSnowflake",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactDummy",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactCrystalThorn",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactBattery",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCrystal",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactMomsBeads",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactJellyFish",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactWorm",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSparkler",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactFireBall",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGoldFish",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactSteak",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactStoneDrop",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactGlass",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactBurntHunk",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactResin",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactChunkMeat",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGravy",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactDrops",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactEye",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactThorn",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactWrenched",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactBloodStone",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactTrunk",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSponge",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactPlane",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactMica",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBubble",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactSlime",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactSlug",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactKryptonite",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBung",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactCottonWool",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactLandSlug",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactChocolate",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "PArtifactBrain",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSoul",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactMoonlight",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactTow",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactThunderHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactCloud",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactBakedBolts",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactDeadSponge",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactHellishHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactPlasma",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSpring",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactPellicle",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBun",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGraphiteBlock",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactEchinus",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactRosin",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactPlasticine",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactNightStar",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactAtom",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactRazor",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCandle",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactFireworks",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCore",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSplitStone",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactBud",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactCrystalGlass",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBouncyBall",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactDevilsMushroom",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Jemmy_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Newbee_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Nasos_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Zorya_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "SkinJacket_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Jacket_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Middle_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Mercenaries_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Default_Military_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy2_Military_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Anomaly_Scientific_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Rook_Svoboda_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Svoboda_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Rook_Dolg_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Dolg_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Monolith_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Varta_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Spark_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Duty_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Duty_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Svoboda_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Varta_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Mercenaries_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Bandit_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Neutral_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_ColimScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_ColimScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_GoloScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X2Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X2Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X4Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X4Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X8Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X8Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_2",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_3",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_2",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_3",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_4",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPM_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunUDP_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM10_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAPB_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunViper_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunBucket_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunIntegral_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunZubr_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK74_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM16_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGP37_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGP37_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunFora_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGvintar_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunKharod_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunLavina_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunDnipro_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVU_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_GLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_GLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_BuckLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK74_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAPB_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunBucket_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunDnipro_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunFora_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunG37_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGvintar_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunIntegral_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunKharod_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunLavina_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM10_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM16_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM701_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM860_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunMark_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRam2_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRhino_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRpg7_GL",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSPSA_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVDM_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVU_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunTOZ_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunZubr_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        }
+      ]
+    },
+    {
+      "type": "AddStructure",
+      "file": "Stalker2/Content/GameLite/GameData/ItemGeneratorPrototypes/Gamepass_ItemGenerators.cfg",
+      "path": "GamePass_Stash_ItemGenerator_Rare::ItemGenerator::[0]::PossibleItems",
+      "structures": [
+        {
+          "ItemPrototypeSID": "EArtifactFlash",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSnowflake",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactDummy",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactCrystalThorn",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactBattery",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCrystal",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactMomsBeads",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactJellyFish",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactWorm",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSparkler",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactFireBall",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGoldFish",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactSteak",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactStoneDrop",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactGlass",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactBurntHunk",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactResin",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactChunkMeat",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGravy",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactDrops",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactEye",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactThorn",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactWrenched",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactBloodStone",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactTrunk",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSponge",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactPlane",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactMica",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBubble",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactSlime",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactSlug",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactKryptonite",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBung",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactCottonWool",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactLandSlug",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactChocolate",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "PArtifactBrain",
+          "Chance": 0.0018,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactSoul",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactMoonlight",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactTow",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactThunderHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactCloud",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactBakedBolts",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactDeadSponge",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactHellishHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactPlasma",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSpring",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactPellicle",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBun",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactGraphiteBlock",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactHedgehog",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactEchinus",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactRosin",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactPlasticine",
+          "Chance": 0.0017,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactNightStar",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactAtom",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactRazor",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCandle",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactFireworks",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "FArtifactCore",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactSplitStone",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GArtifactBud",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EArtifactCrystalGlass",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactBouncyBall",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "CArtifactDevilsMushroom",
+          "Chance": 0.0016,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Jemmy_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Newbee_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Nasos_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Zorya_Neutral_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "SkinJacket_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Jacket_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Middle_Bandit_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Mercenaries_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Default_Military_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy2_Military_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Anomaly_Scientific_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Rook_Svoboda_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Svoboda_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Rook_Dolg_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Dolg_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Monolith_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Varta_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Spark_Armor",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Duty_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Duty_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Svoboda_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Varta_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Heavy_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Mercenaries_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Battle_Military_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Bandit_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "Light_Neutral_Helmet",
+          "Chance": 0.002,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_ColimScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_ColimScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_GoloScope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X2Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X2Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X4Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X4Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_X8Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_X8Scope_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_2",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_Silen_3",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_2",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_3",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_Silen_4",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPM_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunUDP_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM10_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAPB_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunViper_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunBucket_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunIntegral_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunZubr_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK74_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM16_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGP37_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGP37_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunFora_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGvintar_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunKharod_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunLavina_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunDnipro_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagPaired",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunD12_MagLarge",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVU_MagIncreased",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "RU_GLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_GLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "EN_BuckLaunch_1",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAK74_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunAPB_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunBucket_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunDnipro_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunFora_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunG37_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGrim_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunGvintar_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunIntegral_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunKharod_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunLavina_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM10_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM16_ST",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM701_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunM860_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunMark_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunPKP_MG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRam2_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRhino_HG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunRpg7_GL",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSPSA_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVDM_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunSVU_SP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunTOZ_SG",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        },
+        {
+          "ItemPrototypeSID": "GunZubr_PP",
+          "Chance": 0.00175,
+          "MinCount": 1,
+          "MaxCount": 1
+        }
+      ]
+    }
+  ]
+}

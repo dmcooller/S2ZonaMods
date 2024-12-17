@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "description": "Set all quest items weight to 0",
+  "author": "deathelm",
+  "actions": [
+    {
+      "type": "Replace",
+      "file": "Stalker2/Content/GameLite/GameData/ItemPrototypes/QuestItemPrototypes.cfg",
+      "path": "",
+      "value": {
+        "old": "Weight\\s*=\\s*[0-9]*\\.?[0-9]+",
+        "new": "Weight = 0"
+      },
+      "isRegex": true,
+      "comment": "Replace all Weight values with 0"
+    }
+  ]
+}

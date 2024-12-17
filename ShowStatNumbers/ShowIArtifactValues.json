@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "description": "Show Stat Values for Artifacts in your inventory",
+  "author": "Danibash",
+  "actions": [
+    {
+      "type": "Replace",
+      "file": "Stalker2/Content/GameLite/GameData/ItemPrototypes/ArtifactPrototypes.cfg",
+      "value": {
+        "old": "EEffectDisplayType::EffectLevel",
+        "new": "EEffectDisplayType::Value"
+      }
+    }
+  ]
+ }

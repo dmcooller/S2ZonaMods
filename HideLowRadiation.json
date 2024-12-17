@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "description": "Hide low radiation effect",
+  "author": "Floffel",
+  "actions": [
+    {
+      "type": "RemoveStruct",
+      "file": "Stalker2/Content/GameLite/GameData/EffectPrototypes.cfg",
+      "path": "RadiationMechanics::MechanicsEffect::ConditionEffects::LightRadiation_2::ApplicableEffects::[1]"
+    },
+    {
+      "type": "RemoveStruct",
+      "file": "Stalker2/Content/GameLite/GameData/EffectPrototypes.cfg",
+      "path": "RadiationMechanics::MechanicsEffect::ConditionEffects::LightRadiation_2::ApplicableEffects::[2]"
+    },
+    {
+      "type": "RemoveStruct",
+      "file": "Stalker2/Content/GameLite/GameData/EffectPrototypes.cfg",
+      "path": "RadiationMechanics::MechanicsEffect::ConditionEffects::LightRadiation::ApplicableEffects"
+    }
+  ]
+}

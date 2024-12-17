@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "description": "Set the decider gun weight to 0",
+  "author": "deathelm",
+  "actions": [
+    {
+      "type": "Add",
+      "file": "Stalker2/Content/GameLite/GameData/ItemPrototypes/WeaponPrototypes.cfg",
+      "path": "Gun_Decider_AR::Weight",
+      "value": 0
+    }
+  ]
+}

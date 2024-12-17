@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "description": "The day is 4 hours of real time",
+  "author": "JakeKingsly",
+  "actions": [
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/CoreVariables.cfg",
+      "path": "DefaultConfig::RealToGameTimeCoef",
+      "value": 12,
+      "defaultValue": 24
+    }
+  ]
+}

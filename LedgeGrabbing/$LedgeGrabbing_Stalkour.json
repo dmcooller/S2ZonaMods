@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "description": "Allows to mantle onto anything just above head height. Full Height Climbing, up to arms length above head for Parkour-ish movement",
+  "author": "Kennymylenny",
+  "actions": [
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/ObjPrototypes.cfg",
+      "path": "[0]::VaultingParams",
+      "values": {
+        "MaxAngle": 125,
+        "MaxTestDistance": 125,
+        "StartDistance": 20,
+        "VaultOverMaxDepth": 25,
+        "VaultOverLandOffset": 100,
+        "MinObstacleHeight": 85,
+        "MaxObstacleHeight": 350,
+        "MinForwardAxisInputValue": 0.0,
+        "FrontSearchRadiusModifier": 2,
+        "DepthTraceRadiusModifier": 0.9,
+        "LandingMinHeight": 10,
+        "MaxWindowDetectionIterations": 20,
+        "MaxLandingDetectionIterations": 15,
+        "MaxLandingOffset": 350,
+        "LandingMaxSlope": 90
+      }
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/ObjPrototypes.cfg",
+      "path": "Player::StaminaPerAction",
+      "values": {
+        "Jump": 8.0,
+        "MeleeNormal": 8.0,
+        "MeleeStrong": 12.0,
+        "MeleeButstock": 6.0,
+        "Vault": 6.0
+      }
+    },
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/ObjPrototypes.cfg",
+      "path": "Player::MovementParams::BaseLookUpRate",
+      "value": 40,
+      "defaultValue": 30
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "description": "Increase Empty Hands Zoom +150%",
+  "author": "hwk",
+  "actions": [
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/CoreVariables.cfg",
+      "path": "DefaultConfig::HandlessFOVAimModifier",
+      "value": 0.5,
+      "defaultValue": 0.8
+    }
+  ]
+}

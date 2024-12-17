@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "description": "The repair cost is 30% lower",
+  "author": "hwk",
+  "actions": [
+    {
+      "type": "Modify",
+      "file": "Stalker2/Content/GameLite/GameData/CoreVariables.cfg",
+      "path": "DefaultConfig::BaseRepairCostModifier",
+      "value": 0.7,
+      "defaultValue": 1.0
+    }
+  ]
+}

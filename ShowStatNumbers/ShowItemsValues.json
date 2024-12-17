@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "description": "Show Stat Values for Items in your inventory",
+  "author": "Danibash",
+  "actions": [
+    {
+      "type": "Replace",
+      "file": "Stalker2/Content/GameLite/GameData/ItemPrototypes/ConsumablePrototypes.cfg",
+      "value": {
+        "old": "EEffectDisplayType::EffectLevel",
+        "new": "EEffectDisplayType::Value"
+      },
+      "comment": "ShowItemsValuesItemsOnly"
+    },
+    {
+      "type": "Replace",
+      "file": "Stalker2/Content/GameLite/GameData/ItemPrototypes/QuestItemPrototypes.cfg",
+      "value": {
+        "old": "EEffectDisplayType::EffectLevel",
+        "new": "EEffectDisplayType::Value"
+      },
+      "comment": "ShowItemsValuesItemsOnly"
+    }
+  ]
+}
